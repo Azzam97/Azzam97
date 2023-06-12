@@ -11,6 +11,6 @@ Many repositories were created during the time in the bootcamp which are
 <br>
 [Web-fund](https://github.com/Azzam97/web-fund) | [Python](https://github.com/Azzam97/Python_stack)
 
-My guthub pages link
+My github pages link
 <br>
 [github pages](https://azzam97.github.io/github_pages/)

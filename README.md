@@ -1,16 +1,14 @@
-### Hi there 👋
+#I'm Azzam
+---
+I'm a fullstack developer, currently I'm learning prgramming from AXSOS Academy and planning to shift to game development.
+Through my bootcamp with AXSOS Academy I studied and mastered different languages such as:
+- HTML
+- CSS
+- JavaScript
+- Python
 
-<!--
-**Azzam97/Azzam97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Many repositories were created during the time in the bootcamp which are: 
+[Web-fund](https://github.com/Azzam97/web-fund] | [Python](https://github.com/Azzam97/Python_stack)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My guthub pages link
+[github pages](https://azzam97.github.io/github_pages/)
